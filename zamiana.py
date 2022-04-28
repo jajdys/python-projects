@@ -1,0 +1,7 @@
+x = input("| System 10 to: ")
+x = int(x)
+print("| Ststem 2  to: " + bin(x)[2:])
+print("| System 8  to: " + oct(x)[2:])
+print("| System 16 to: " + hex(x)[2:])
+print("| System 7  to: ")
+print("| System 32 to: ")
